@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntroSlider</string>
+
+
+    <string name="Facebook">Facebook</string>
+    <string name="fac_subtitle">You can use facebook through this app</string>
+    <string name="twitter">Twitter</string>
+    <string name="twi_subtitle">You can use twitter through this app</string>
+    <string name="share">Share</string>
+    <string name="sha_subtitle">You can use Share it through this app</string>
+    <string name="clou_subtitle">You can upload files in cloud through this app </string>
+    <string name="cloud">Cloud</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="preference_status">com.introSlider</string>
+    <string name="preference_key">com.introSlider</string>
+    <string name="log_out">Log Out</string>
+</resources>
